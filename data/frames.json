@@ -1,0 +1,38 @@
+{
+  "frames":[
+    {
+      "id":"starter",
+      "type":"pin",
+      "title":"Starter",
+      "image":"assets/frames/starter.png",
+      "photo":{
+        "x":390,
+        "y":260,
+        "size":300
+      },
+      "name":{
+        "x":540,
+        "y":650,
+        "fontSize":52,
+        "color":"#ffffff"
+      }
+    },
+    {
+      "id":"diamond",
+      "type":"club",
+      "title":"Diamond Club",
+      "image":"assets/frames/diamond.png",
+      "photo":{
+        "x":390,
+        "y":260,
+        "size":300
+      },
+      "name":{
+        "x":540,
+        "y":650,
+        "fontSize":52,
+        "color":"#ffffff"
+      }
+    }
+  ]
+}
